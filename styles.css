@@ -342,7 +342,7 @@ body {
   z-index: 10;
 }
 
-.ad-card .desc.bookmark {
+.ad-card .desc .bookmark {
   position: absolute;
   background-color: var(--whiteColor);
   color: var(--darkPrimary);
